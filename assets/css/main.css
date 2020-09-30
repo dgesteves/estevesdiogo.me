@@ -6,9 +6,9 @@
 }
 
 #particles-js {
-    background: white;
-    width: 100%;
-    height: 100%;
+    background:black;
+    width: 101%;
+    height: 101%;
 }
 
 #logo {
@@ -28,8 +28,8 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: 'Roboto', sans-serif;
-    height: 100vh;
-    width: 100%;
+    height: 101vh;
+    width: 101%;
 }
 
 .jumbotron {
@@ -90,7 +90,7 @@ i {
 
 ::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    background-color: white;
+    background-color: black;
     box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
 }
 
